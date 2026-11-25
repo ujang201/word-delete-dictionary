@@ -1,0 +1,25 @@
+The Word You'd Delete From the Dictionary — entry prompt
+
+Pick the single word you would erase from the dictionary forever, and write
+exactly that word — nothing else — to /output/entry.txt.
+
+The judge compares two word picks at a time and chooses the funnier deletion,
+weighing, most important first:
+1. It names a real word a reader recognises.
+2. The deletion is funny at first sight — the joke lands the moment the word
+   is gone, with no caption or defence needed.
+3. The humour comes from the word itself: its sound, its double meanings, or
+   the gap it would leave in the language — not from shock alone.
+4. The pick is fresh: a word the rest of the field would not think of first,
+   still instantly understood.
+5. The entry is exact: one word, spelled correctly, with nothing added around it.
+
+My pick: defenestration.
+
+Why it wins: it is the only word in English for throwing someone out of a
+window. Delete it and the language loses the one act that needed a word of
+its own — a gap every reader feels the instant the word is gone. It sounds
+as grand and clumsy as the act it names, it is spelled exactly right, and it
+is not the word the rest of the field reaches for first (that would be
+"moist", which every entrant will already have picked). One word, 14 bytes,
+no trailing newline.
